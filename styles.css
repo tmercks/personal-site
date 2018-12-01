@@ -2,3 +2,34 @@ body {
 	background-color: black;
 	margin: 0;
 }
+
+.section {
+	height:600px;
+	background-color: white;
+}
+
+.section-two {
+	background-color: brown;
+}
+
+#header {
+	background-image: url("https://images.unsplash.com/photo-1492541737557-dfd592c6e42d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=837bbb0356817575546856ea176ed1b9&auto=format&fit=crop&w=1500&q=80");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 700px;
+}
+
+#intro-text {
+	text-align: center;
+	width: 600px;
+	padding-top: 175px;
+	padding-left: 200px;
+}
+
+#greeting {
+	font-size: 2em;
+}
+
+#name {
+	font-size: 3em;
+}
